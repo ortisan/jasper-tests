@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+    <fontFamily name="Marcelo">
+        <normal><![CDATA[fonts/Beautiful_Mess.ttf]]></normal>
+        <bold><![CDATA[fonts/Beautiful_Mess.ttf]]></bold>
+        <italic><![CDATA[fonts/Beautiful_Mess.ttf]]></italic>
+        <bolditalic><![CDATA[fonts/Beautiful_Mess.ttf]]></bolditalic>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+    </fontFamily>
+
+</fontFamilies>

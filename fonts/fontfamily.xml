@@ -1,0 +1,9 @@
+<fontfamilies>
+    <fontfamily name="Marcelo">
+        <normal>fonts/Beautiful_Mess.ttf</normal>
+        <bold>fonts/Beautiful_Mess.ttf</bold>
+        <italic>fonts/Beautiful_Mess.ttf</italic>
+        <bolditalic>fonts/Beautiful_Mess.ttf</bolditalic>
+        <pdfembedded>true</pdfembedded>
+    </fontfamily>
+</fontfamilies>
